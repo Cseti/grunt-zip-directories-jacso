@@ -1,0 +1,9 @@
+image: node:8
+script:
+  - npm i
+  - npm install -g grunt-cli
+  - grunt test
+notify:
+  email:
+    recipients:
+      - roytinker@gmail.com

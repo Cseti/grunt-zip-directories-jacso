@@ -1,0 +1,23 @@
+{
+  "name": "grunt-zip-directories-jacso",
+  "version": "1.0.0",
+  "description": "Modifed package by Jacsomedia. Base package: https://github.com/RoyTinker/grunt-zip-directories",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cseti/grunt-zip-directories-jacso.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cseti/grunt-zip-directories-jacso/issues"
+  },
+  "homepage": "https://github.com/Cseti/grunt-zip-directories-jacso#readme",
+  "dependencies": {
+    "archiver": "^2.0.3",
+    "async": "^2.5.0"
+  }
+}
